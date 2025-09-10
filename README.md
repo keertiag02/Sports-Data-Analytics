@@ -1,5 +1,5 @@
 # Sports-Data-Analytics
-1. Conducted end-to-end data analysis on 500+ players performance dataset: performed data cleaning, exploratory data analysis (EDA), and statistical testing (Hypothesis Testing, Shapiro–Wilk for normality, ).
+1. Conducted end-to-end data analysis on 500+ players performance dataset: performed data cleaning, exploratory data analysis (EDA), and statistical testing (Hypothesis Testing, Shapiro–Wilk for normality).
 
 2. Applied Yeo-Johnson transformation to normalise columns.
    
