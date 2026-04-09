@@ -1,5 +1,5 @@
-# Sports-Data-Analytics
-<h3>Conducted descriptive, exploratory and predictive data analysis on dataset, including 500+ players performance records, using Python (libraries such as pandas, numpy, scipy, matplotlib, seaborn, and scikit-learn)</h3>
+<h3>Sports Data Analytics</h3>
+<p>Conducted descriptive, exploratory and predictive data analysis on dataset, including 500+ players performance records, using Python libraries.</h3>
 <p><b>Performed following tasks:</b>
  <ul>
  <li>Performed data cleaning, handle missing values using <b>SimpleImputer</b></li>
@@ -11,7 +11,6 @@
  <li>Evaluate the model performance using <b>Silhoutte Score and Davies-Bouldin Index</b> to measure cluster cohesion and separation.</li>
  </ul>
 </p>
-<img width="450" height="550" alt="Python Project SS" src="https://github.com/user-attachments/assets/7320cddc-b1f9-4d71-a3fd-a072df341835" />
-<img width="450" height="550" alt="Project SS1" src="https://github.com/user-attachments/assets/1d233bc2-4a83-480c-8a1f-f5781f5f9a2f" />
+<p>This project aims to apply data analysis and data mining techniques, and machine learning algorithms to classify striker performance into meaningful categories. It helps identify top-performing and supporting players while providing actionable insights to enhance performance and support informed decision-making.</p>
 
 
