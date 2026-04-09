@@ -11,6 +11,6 @@
  <li>Evaluate the model performance using <b>Silhoutte Score and Davies-Bouldin Index</b> to measure cluster cohesion and separation.</li>
  </ul>
 </p>
-<p>This project aims to apply data analysis and data mining techniques, and machine learning algorithms to classify striker performance into meaningful categories. It helps identify top-performing and supporting players while providing actionable insights to enhance performance and support informed decision-making.</p>
+<p><b>This project aims</b> to apply data analysis and data mining techniques, and machine learning algorithms to classify striker performance into meaningful categories. It helps identify top-performing and supporting players while providing actionable insights to enhance performance and support informed decision-making.</p>
 
 
